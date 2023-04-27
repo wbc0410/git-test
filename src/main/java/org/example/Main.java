@@ -10,6 +10,7 @@ public class Main {
         System.out.printf("Hello and welcome2!");
         System.out.printf("Hello and welcome3!");
         System.out.printf("Hello and welcome4!");
+        System.out.printf("hot-fix test!");
 
         // Press ⌃R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
