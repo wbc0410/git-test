@@ -12,6 +12,7 @@ public class Main {
         System.out.printf("Hello and welcome4!");
         System.out.printf("master test!");
         System.out.printf("hot-fix test!");
+        System.out.printf("push test!");
 
         // Press ⌃R or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
